@@ -38,3 +38,15 @@ a{
     font-size: 25px;
     color: black;
 }
+
+.tittel{
+    margin-left: 15px;
+}
+
+.subtitle{
+    margin-left: 15px;
+}
+
+.forfatter{
+    margin-left: 15px;
+}

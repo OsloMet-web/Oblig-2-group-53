@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d061f88e-6072-4e8f-93d5-71c17d79e1a2" name="Changes" comment="filstruktur">
-      <change afterPath="$PROJECT_DIR$/main/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/.idea/Oblig-2-group-53.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Bilder/cr7xmessi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Bilder/messicry.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Bilder/messicrying.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/mainpage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/secondary/secondpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Oblig-2-group-53.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bilder/cr7xmessi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bilder/messicry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bilder/messicrying.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainpage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/secondary/secondpage.html" beforeDir="false" />
-    </list>
+    <list default="true" id="d061f88e-6072-4e8f-93d5-71c17d79e1a2" name="Changes" comment="filstruktur" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +71,7 @@
       <updated>1697109615083</updated>
       <workItem from="1697109616151" duration="380000" />
       <workItem from="1697110027695" duration="4962000" />
-      <workItem from="1697448343267" duration="2760000" />
+      <workItem from="1697448343267" duration="3154000" />
     </task>
     <task id="LOCAL−00001" summary="files">
       <option name="closed" value="true" />
@@ -154,7 +129,14 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1697450113444</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="filstruktur">
+      <option name="closed" value="true" />
+      <created>1697451367410</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1697451367410</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

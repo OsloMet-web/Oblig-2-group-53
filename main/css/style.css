@@ -91,5 +91,7 @@ line-height: 200%;
 .footer{
     background-color: black;
     color: white;
-    height: 100px;
+    height: 200px;
+    text-align: center;
+
 }

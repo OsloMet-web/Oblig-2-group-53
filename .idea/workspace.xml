@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d061f88e-6072-4e8f-93d5-71c17d79e1a2" name="Changes" comment="w">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d061f88e-6072-4e8f-93d5-71c17d79e1a2" name="Changes" comment="filstruktur">
+      <change afterPath="$PROJECT_DIR$/secondary/secondpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondpage.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +159,14 @@
       <option name="presentableId" value="LOCAL−00011" />
       <updated>1697454494591</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL−00012" summary="w">
+      <option name="closed" value="true" />
+      <created>1697456151492</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1697456151492</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,9 +179,9 @@
     <MESSAGE value="Style link på secondpage" />
     <MESSAGE value="Header secondpage" />
     <MESSAGE value="Bilde" />
-    <MESSAGE value="filstruktur" />
     <MESSAGE value="filer" />
     <MESSAGE value="w" />
-    <option name="LAST_COMMIT_MESSAGE" value="w" />
+    <MESSAGE value="filstruktur" />
+    <option name="LAST_COMMIT_MESSAGE" value="filstruktur" />
   </component>
 </project>

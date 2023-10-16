@@ -86,3 +86,19 @@ a{
     margin-top: 0px;
 }
 
+.footergrid {
+    display: grid;
+    grid-template-columns: auto 40vw auto 40px;
+}
+.footerleft {
+    grid-column: 1 / 2;
+    grid-row: 3;
+}
+.footermiddle {
+    grid-column: 2 / 3;
+    grid-row: 3;
+}
+.footerright {
+    grid-column: 3 / 4;
+    grid-row: 3;
+}

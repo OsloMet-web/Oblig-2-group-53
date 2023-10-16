@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d061f88e-6072-4e8f-93d5-71c17d79e1a2" name="Changes" comment="filstruktur">
+    <list default="true" id="d061f88e-6072-4e8f-93d5-71c17d79e1a2" name="Changes" comment="w">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +150,14 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1697452473623</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011">
+      <option name="closed" value="true" />
+      <created>1697454494591</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1697454494591</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +172,7 @@
     <MESSAGE value="Bilde" />
     <MESSAGE value="filstruktur" />
     <MESSAGE value="filer" />
-    <option name="LAST_COMMIT_MESSAGE" value="filer" />
+    <MESSAGE value="w" />
+    <option name="LAST_COMMIT_MESSAGE" value="w" />
   </component>
 </project>

@@ -61,7 +61,10 @@ a{
     grid-column: 3 / 4;
     grid-row: 1;
 }
-
+{
+"stylesheet" type = "text / css" href = "linestyle.css" />
+<p class = "høyde"> Linjehøyde 1 </ p>
+}
 
 
 .tittel{

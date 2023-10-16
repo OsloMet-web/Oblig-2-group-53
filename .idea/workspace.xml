@@ -20,16 +20,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;s373916&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "searchQuery": "mainpage",
+      "state": "OPEN",
+      "assignee": "s373916"
+    }
+  ],
+  "lastFilter": {
+    "searchQuery": "mainpage",
+    "state": "OPEN",
+    "assignee": "s373916"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="e205b395-91fa-4a4e-8064-8740b10aad42" />
+        <option name="accountId" value="cd6c9bfa-b9e3-4a4e-a8b9-9ea15e8f08a8" />
         <option name="url" value="https://github.com/OsloMet-web/Oblig-2-group-53.git" />
       </UrlAndAccount>
     </option>
@@ -104,6 +112,7 @@
       <workItem from="1697110027695" duration="4962000" />
       <workItem from="1697448343267" duration="5310000" />
       <workItem from="1697454036489" duration="106000" />
+      <workItem from="1697459461403" duration="1978000" />
     </task>
     <task id="LOCAL−00001" summary="files">
       <option name="closed" value="true" />
@@ -217,11 +226,50 @@
       <option name="presentableId" value="LOCAL−00016" />
       <updated>1697458528643</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL−00017" summary="filstruktur">
+      <option name="closed" value="true" />
+      <created>1697461404844</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1697461404844</updated>
+    </task>
+    <task id="LOCAL−00018" summary="filstruktur">
+      <option name="closed" value="true" />
+      <created>1697461432578</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1697461432578</updated>
+    </task>
+    <task id="LOCAL−00019" summary="filstruktur">
+      <option name="closed" value="true" />
+      <created>1697461449124</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1697461449124</updated>
+    </task>
+    <task id="LOCAL−00020" summary="filstruktur">
+      <option name="closed" value="true" />
+      <created>1697461589392</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1697461589392</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

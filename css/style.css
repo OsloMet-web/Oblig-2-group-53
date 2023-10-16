@@ -39,11 +39,6 @@ a{
     color: black;
 }
 
-.artikkel{
-    display: grid;
-    grid-template-columns: 30vw auto minmax(300px, 30vw) 40px;
-    grid-auto-rows: minmax(100px, auto);
-}
 
 .tittel{
     margin-left: 15px;

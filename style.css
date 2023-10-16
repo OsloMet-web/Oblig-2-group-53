@@ -52,7 +52,6 @@ a{
 .secondary-box{
     grid-column: 1 / 3;
     grid-row: 2;
-    width: minmax (auto, 80vw);
     height: 40vw;
     max-height: 530px;
 

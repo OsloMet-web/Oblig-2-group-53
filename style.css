@@ -77,6 +77,11 @@ a{
 }
 
 .bilde1{
-    width: auto;
+    width: 1000px;
     margin-left: 15px;
+}
+
+.fotograf{
+    margin-left: 15px;
+    margin-top: 0px;
 }

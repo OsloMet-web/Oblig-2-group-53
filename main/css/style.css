@@ -63,7 +63,7 @@ a{
     grid-row: 1;
 }
 {
-<p class = "høyde"> Linjehøyde 1 </ p>
+line-height: 200%;
 }
 
 

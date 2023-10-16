@@ -210,7 +210,14 @@
       <option name="presentableId" value="LOCAL−00015" />
       <updated>1697457441865</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL−00016" summary="filstruktur">
+      <option name="closed" value="true" />
+      <created>1697458528643</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1697458528643</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
